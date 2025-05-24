@@ -3,7 +3,7 @@ import React from 'react';
 const FooterTop = () => {
   return (
     <section className="w-full pt-6 bg-[#F0F0F2]">
-      <div className="w-full max-w-screen-3xl mx-auto px-6 sm:px-6 lg:px-9">
+      <div className="w-full max-w-screen-3xl mx-auto px-4 sm:px-6 lg:px-9">
         <h2 className="text-base font-semibold text-gray-950 mb-3">DISCLAIMER</h2>
 
         <div className="space-y-3 text-sm text-gray-950 leading-relaxed">

@@ -1,4 +1,4 @@
-import About from "./about";
+import About from "./About";
 import Contact from "./Contact";
 import CopyRight from "./CopyRight";
 import FooterBottom from "./FooterBottom";

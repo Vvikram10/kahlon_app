@@ -13,7 +13,7 @@ export default function Form() {
           <hr className="flex-grow border-gray-800" />
           <div className="inline-flex gap-2 rounded px-1 py-1 text-lg ">
             <img
-              src="https://akahlon.ca/img/logo_01_3icon.png"
+              src="/images/home/logo_01_3icon.png"
               alt="Logo"
               className="h-8 w-auto object-contain"
             />

@@ -5,7 +5,7 @@ const LeaveMessage = () => {
     <div className="hidden lg:fixed lg:right-0 lg:top-1/3 lg:transform lg:-translate-y-1/2 lg:z-50 lg:block bg-[#E0D583]">
       <a href="#Leave_message">
         <img
-          src="https://akahlon.ca/img/leav_message.jpg"
+          src="/images/home/leav_message.jpg"
           alt="Leave a Message"
           className="w-9 h-40 object-contain rounded-tl-md"
         />

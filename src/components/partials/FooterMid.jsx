@@ -17,7 +17,7 @@ const FooterMid = () => {
         {/* Logo */}
         <div>
           <div className="mb-4">
-            <img src="https://akahlon.ca/img/logo_01.png" alt="Logo" className="w-32" />
+            <img src="/images/home/logo_01.png" alt="Logo" className="w-32" />
           </div>
         </div>
 

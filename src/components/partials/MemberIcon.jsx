@@ -7,7 +7,7 @@ const MemberIcon = () => {
       <div className="flex justify-center items-center mb-8">
         <div className="relative" style={{ width: '190px', height: '30px' }}>
           <img
-            src="https://akahlon.ca/img/title_bg.png"
+            src="/images/home/title_bg.png"
             alt="Gold Brush Stroke"
             className="absolute top-0 left-0 w-full h-full object-cover"
           />
@@ -22,27 +22,27 @@ const MemberIcon = () => {
         {[
           {
             href: 'https://lso.ca/home',
-            src: 'https://akahlon.ca/img/Law_Society_of_Ontario_logo.svg.webp',
+            src: '/images/home/Law_Society_of_Ontario_logo.svg.webp',
             alt: 'Law Society of Ontario',
           },
           {
             href: 'https://cila.co/',
-            src: 'https://akahlon.ca/img/cila.webp',
+            src: '/images/home/cila.webp',
             alt: 'CILA',
           },
           {
             href: 'https://www.cba.org/home/',
-            src: 'https://akahlon.ca/img/CBA_eng_frBW.webp',
+            src: '/images/home/CBA_eng_frBW.webp',
             alt: 'Canadian Bar Association',
           },
           {
             href: 'https://www.oba.org/home/',
-            src: 'https://akahlon.ca/img/logo_oba.webp',
+            src: '/images/home/logo_oba.webp',
             alt: 'Ontario Bar Association',
           },
           {
             href: 'https://sabatoronto.com/',
-            src: 'https://akahlon.ca/img/sabat.webp',
+            src: '/images/home/sabat.webp',
             alt: 'SABA Toronto',
           },
         ].map(({ href, src, alt }) => (

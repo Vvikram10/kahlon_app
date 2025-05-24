@@ -81,7 +81,7 @@ const LawyerHeroSection = () => {
           {/* Image Section */}
           <div className="flex justify-center ml-auto">
             <img
-              src="https://akahlon.ca/img/arshdeeps.webp"
+              src="/images/home/arshdeeps.webp"
               alt="Lawyer Arshdeep Singh Kahlon"
               className="w-full max-w-[330px] object-cover rounded-xl"
             />

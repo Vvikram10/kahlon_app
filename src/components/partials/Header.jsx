@@ -79,7 +79,7 @@ const Header = () => {
             {/* Logo */}
             <div className="w-[130px]">
               <img
-                src="https://akahlon.ca/img/logo_01.png"
+                src="/images/home/logo_01.png"
                 alt="Kahlon Logo"
                 className="w-[130px] absolute top-2"
               />
